@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Eduardo Hidalgo
 
-Soy desarrollador **Frontend** con más de 4 años de experiencia construyendo interfaces modernas, accesibles y optimizadas para SEO.  
+Soy desarrollador **Frontend** con más de 5 años de experiencia construyendo interfaces modernas, accesibles y optimizadas.  
 Trabajo con tecnologías como **React**, **Angular**, **Typescript** y **WordPress**, creando soluciones digitales para instituciones públicas, startups y proyectos freelance.
 
 ---
